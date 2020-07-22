@@ -21,4 +21,5 @@
 
 ## Go Ecosystem
 
-- [esbuild-service](https://github.com/egoist/esbuild-service): a web server that bundles any npm package on the fly as you fetch.
+- [esbuild-service](https://github.com/egoist/esbuild-service): A web server that bundles any npm package on the fly as you fetch.
+- [Hugo](https://gohugo.io/): A static site generator, using esbuild to bundle front-end assets.
