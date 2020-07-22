@@ -15,6 +15,7 @@
 - [estrella](https://github.com/rsms/estrella): A file watcher running rebuild automatically.
 - [rollup-plugin-esbuild](https://github.com/egoist/rollup-plugin-esbuild): A Rollup plugin to transform JS/TS with esbuild.
 - [esbuild-loader](https://github.com/egoist/esbuild-loader): A webpack loader and plugin to transform JS/TS with esbuild.
+- [esbuild-webpack-plugin](https://github.com/sorrycc/esbuild-webpack-plugin): Use esbuild as minifier for webpack.
 - [tsup](https://github.com/egoist/tsup): An esbuild based bundler for Node.js libraries.
 - [Maho](https://github.com/egoist/maho): An attempt to build a SSR framework with esbuild and React.
 - [Vite](https://github.com/vitejs/vite): An ESM-based build tool, using esbuild to transform JS/TS code.
