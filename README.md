@@ -12,6 +12,7 @@
 
 ## JavaScript Ecosystem
 
+- [estrella](https://github.com/rsms/estrella): A file watcher running rebuild automatically.
 - [rollup-plugin-esbuild](https://github.com/egoist/rollup-plugin-esbuild): A Rollup plugin to transform JS/TS with esbuild.
 - [esbuild-loader](https://github.com/egoist/esbuild-loader): A webpack loader and plugin to transform JS/TS with esbuild.
 - [tsup](https://github.com/egoist/tsup): An esbuild based bundler for Node.js libraries.
