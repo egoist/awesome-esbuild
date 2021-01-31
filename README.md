@@ -16,13 +16,19 @@
 - [rollup-plugin-esbuild](https://github.com/egoist/rollup-plugin-esbuild): A Rollup plugin to transform JS/TS with esbuild.
 - [esbuild-loader](https://github.com/egoist/esbuild-loader): A webpack loader and plugin to transform JS/TS with esbuild.
 - [esbuild-webpack-plugin](https://github.com/sorrycc/esbuild-webpack-plugin): Use esbuild as minifier for webpack.
+- [esbuild-svelte](https://github.com/EMH333/esbuild-svelte): An esbuild plugin to compile Svelte components.
 - [tsup](https://github.com/egoist/tsup): An esbuild based bundler for Node.js libraries.
+- [esbuild-node-tsc](https://github.com/a7ul/esbuild-node-tsc): Build your Typescript Node.js projects using blazing fast esbuild.
 - [Maho](https://github.com/egoist/maho): An attempt to build a SSR framework with esbuild and React.
 - [Vite](https://github.com/vitejs/vite): An ESM-based build tool, using esbuild to transform JS/TS code.
 - [Snowpack](https://github.com/pikapkg/snowpack): The near-instant build tool for modern web apps, using esbuild to transform JS/TS code.
 - [serverless-esbuild](https://github.com/floydspace/serverless-esbuild): A Serverless framework plugin to bundle JavaScript and TypeScript using esbuild.
 - [gulp-esbuild](https://github.com/ym-project/gulp-esbuild): A gulp plugin for esbuild bundler
 - [aws-lambda-nodejs-esbuild](https://github.com/floydspace/aws-lambda-nodejs-esbuild): AWS CDK Construct to bundle JavaScript and TypeScript lambdas using esbuild.
+
+## Communities
+
+- [Reddit](https://www.reddit.com/r/esbuild/): Unofficial subreddit for everything related to esbuild.
 
 ## Go Ecosystem
 
