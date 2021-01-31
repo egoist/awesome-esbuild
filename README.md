@@ -22,7 +22,7 @@
 - [Snowpack](https://github.com/pikapkg/snowpack): The near-instant build tool for modern web apps, using esbuild to transform JS/TS code.
 - [serverless-esbuild](https://github.com/floydspace/serverless-esbuild): A Serverless framework plugin to bundle JavaScript and TypeScript using esbuild.
 - [gulp-esbuild](https://github.com/ym-project/gulp-esbuild): A gulp plugin for esbuild bundler
-- [aws-lambda-nodejs-esbuild](https://github.com/floydspace/aws-lambda-nodejs-esbuild): AWS CDK Construct to bundle JavaScript and TypeScript lambdas using [esbuild](https://github.com/evanw/esbuild).
+- [aws-lambda-nodejs-esbuild](https://github.com/floydspace/aws-lambda-nodejs-esbuild): AWS CDK Construct to bundle JavaScript and TypeScript lambdas using esbuild.
 
 ## Go Ecosystem
 
