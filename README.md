@@ -16,7 +16,6 @@
 - [rollup-plugin-esbuild](https://github.com/egoist/rollup-plugin-esbuild): A Rollup plugin to transform JS/TS with esbuild.
 - [esbuild-loader](https://github.com/egoist/esbuild-loader): A webpack loader and plugin to transform JS/TS with esbuild.
 - [esbuild-webpack-plugin](https://github.com/sorrycc/esbuild-webpack-plugin): Use esbuild as minifier for webpack.
-- [esbuild-svelte](https://github.com/EMH333/esbuild-svelte): An esbuild plugin to compile Svelte components.
 - [tsup](https://github.com/egoist/tsup): An esbuild based bundler for Node.js libraries.
 - [esbuild-node-tsc](https://github.com/a7ul/esbuild-node-tsc): Build your Typescript Node.js projects using blazing fast esbuild.
 - [Maho](https://github.com/egoist/maho): An attempt to build a SSR framework with esbuild and React.
@@ -25,6 +24,21 @@
 - [serverless-esbuild](https://github.com/floydspace/serverless-esbuild): A Serverless framework plugin to bundle JavaScript and TypeScript using esbuild.
 - [gulp-esbuild](https://github.com/ym-project/gulp-esbuild): A gulp plugin for esbuild bundler
 - [aws-lambda-nodejs-esbuild](https://github.com/floydspace/aws-lambda-nodejs-esbuild): AWS CDK Construct to bundle JavaScript and TypeScript lambdas using esbuild.
+
+## Plugins
+
+- [esbuild-graphql-loader](https://github.com/luckycatfactory/esbuild-graphql-loader): A plugin allowing for GraphQL file imports.
+- [esbuild-mdx](https://github.com/zaydek/esbuild-mdx): A plugin to render `.md` and `.mdx`-delimited files as React components.
+- [esbuild-plugin-glsl](https://github.com/vanruesc/esbuild-plugin-glsl): A plugin that adds support for GLSL file imports with optional shader minification.
+- [esbuild-plugin-glslx](https://github.com/evanw/esbuild-plugin-glslx): A plugin that supports [`*.glslx` files](http://evanw.github.io/glslx/) including type checking of GLSL code.
+- [esbuild-plugin-less](https://github.com/iam-medvedev/esbuild-plugin-less): A plugin to transform LESS files to CSS files.
+- [esbuild-plugin-postcss](https://github.com/deanc/esbuild-plugin-postcss): A plugin to use postcss.
+- [esbuild-plugin-sass](https://github.com/koluch/esbuild-plugin-sass/): A plugin to transform SASS files to CSS files
+- [esbuild-plugin-svgr](https://github.com/kazijawad/esbuild-plugin-svgr): A plugin to import `*.svg` files as React components.
+- [esbuild-sass-plugin](https://github.com/glromeo/esbuild-sass-plugin/): Yet another SASS to CSS but with support for [lit-element's styles](https://lit-element.polymer-project.org/guide/styles)
+- [esbuild-stylus-loader](https://github.com/ym-project/esbuild-stylus-loader): A plugin to transform stylus files to css files.
+- [esbuild-svelte](https://github.com/EMH333/esbuild-svelte): A plugin to load and compile Svelte components.
+- [essass](https://github.com/fayismahmood/sassEs/): A plugin to transform SASS files to CSS files.
 
 ## Communities
 
