@@ -47,6 +47,10 @@
 - [esbuild-plugin-flow](https://github.com/dalcib/esbuild-plugin-flow): A plugin to strip types for Flow files using flow-remove-types package.
 - [vite-esbuild-typescript-checker](https://github.com/time4dev/vite-esbuild-typescript-checker) - Fast type checker (TypeScript, Vue SFC, etc.) Based on the webpack 5 plugin (fork-ts-checker-webpack-plugin).
 
+## Templates
+
+- [typescript-project-skeleton-esbuild-jest](https://github.com/permafrost-dev/typescript-project-skeleton-esbuild-jest) - Template with the latest versions of Typescript, ESBuild, Jest, ESLint & Prettier.
+
 ## Communities
 
 - [Reddit](https://www.reddit.com/r/esbuild/): Unofficial subreddit for everything related to esbuild.
