@@ -53,8 +53,7 @@
 
 ## Testing
 
-- [cypress-plugins](https://github.com/glromeo/cypress-plugins) - esbuild doesn't instrument code for collecting coverage but using v8 native coverage is possible to get coverage reports and benefit of esbuild speed also in component and integration tests
-
+- [cypress-plugins](https://github.com/glromeo/cypress-plugins) - Cypress plugins to use esbuild and v8 code coverage for e2e and component tests.
 ## Communities
 
 - [Reddit](https://www.reddit.com/r/esbuild/): Unofficial subreddit for everything related to esbuild.
