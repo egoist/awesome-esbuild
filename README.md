@@ -25,6 +25,7 @@
 - [gulp-esbuild](https://github.com/ym-project/gulp-esbuild): A gulp plugin for esbuild bundler
 - [aws-lambda-nodejs-esbuild](https://github.com/floydspace/aws-lambda-nodejs-esbuild): AWS CDK Construct to bundle JavaScript and TypeScript lambdas using esbuild.
 - [esm.sh](https://github.com/postui/esm.sh): A fast, global content delivery network for ES Modules using esbuild.
+- [esbuild-config](https://github.com/bpierre/esbuild-config): Add config files to esbuild.
 
 ## Plugins
 
