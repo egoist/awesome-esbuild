@@ -26,6 +26,8 @@
 - [aws-lambda-nodejs-esbuild](https://github.com/floydspace/aws-lambda-nodejs-esbuild): AWS CDK Construct to bundle JavaScript and TypeScript lambdas using esbuild.
 - [esm.sh](https://github.com/postui/esm.sh): A fast, global content delivery network for ES Modules using esbuild.
 - [esbuild-config](https://github.com/bpierre/esbuild-config): Add config files to esbuild.
+- [Tauque](https://github.com/CTNicholas/tauque): Tauque is a zero-configuration JS/TS bundler using esbuild.
+- [esrun](https://github.com/digital-loukoum/esrun): esrun is a "work out of the box" library to execute Typescript without having to manually use a bundler.
 
 ## Plugins
 
