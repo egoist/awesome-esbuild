@@ -33,6 +33,7 @@
 
 > ⚠️ _These plugins are from the community and are not officially supported._ ⚠️
 
+- [esbuild-cf-functions-plugin](https://github.com/BeeeQueue/esbuild-cf-functions-plugin) A plugin for building code compatible with CloudFront Functions.
 - [esbuild-dynamic-import-plugin](https://github.com/thx/gogocode/tree/main/packages/esbuild-import-plugin) A plugin that transform imports to dynamic import(import on demand).
 - [esbuild-graphql-loader](https://github.com/luckycatfactory/esbuild-graphql-loader): A plugin allowing for GraphQL file imports.
 - [esbuild-mdx](https://github.com/zaydek/esbuild-mdx): A plugin to render `.md` and `.mdx`-delimited files as React components.
