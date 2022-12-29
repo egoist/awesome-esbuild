@@ -33,6 +33,7 @@
 
 > ⚠️ _These plugins are from the community and are not officially supported._ ⚠️
 
+- [esbuild-analyzer](https://github.com/shuoshubao/esbuild-analyzer): A visualizer esbuild analyzer.
 - [esbuild-coffeescript](https://github.com/johnie/esbuild-coffeescript) A plugin to load and compile [CoffeeScript](https://coffeescript.org/).
 - [esbuild-cf-functions-plugin](https://github.com/BeeeQueue/esbuild-cf-functions-plugin) A plugin for building code compatible with CloudFront Functions.
 - [esbuild-dynamic-import-plugin](https://github.com/thx/gogocode/tree/main/packages/esbuild-import-plugin) A plugin that transform imports to dynamic import(import on demand).
