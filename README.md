@@ -30,7 +30,6 @@
 - [esrun](https://github.com/digital-loukoum/esrun): esrun is a "work out of the box" library to execute Typescript without having to manually use a bundler.
 - [esbuild-bun-react-tempalte](https://github.com/Alex-Neo-Projects/esbuild-bun-react-template): A template for using esbuild with bun & react. Anecdotally faster than NextJS!
 
-
 ## Plugins
 
 > ⚠️ _These plugins are from the community and are not officially supported._ ⚠️
