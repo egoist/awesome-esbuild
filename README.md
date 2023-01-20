@@ -28,6 +28,7 @@
 - [esbuild-config](https://github.com/bpierre/esbuild-config): Add config files to esbuild.
 - [Tauque](https://github.com/CTNicholas/tauque): Tauque is a zero-configuration JS/TS bundler using esbuild.
 - [esrun](https://github.com/digital-loukoum/esrun): esrun is a "work out of the box" library to execute Typescript without having to manually use a bundler.
+- [esbuild-bun-react-tempalte](https://github.com/Alex-Neo-Projects/esbuild-bun-react-template): A template for using esbuild with bun & react. Anecdotally faster than NextJS!
 
 ## Plugins
 
