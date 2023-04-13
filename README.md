@@ -22,13 +22,14 @@
 - [Vite](https://github.com/vitejs/vite): An ESM-based build tool, using esbuild to transform JS/TS code.
 - [Snowpack](https://github.com/pikapkg/snowpack): The near-instant build tool for modern web apps, using esbuild to transform JS/TS code.
 - [serverless-esbuild](https://github.com/floydspace/serverless-esbuild): A Serverless framework plugin to bundle JavaScript and TypeScript using esbuild.
-- [gulp-esbuild](https://github.com/ym-project/gulp-esbuild): A gulp plugin for esbuild bundler
+- [gulp-esbuild](https://github.com/ym-project/gulp-esbuild): A gulp plugin for esbuild bundler.
 - [aws-lambda-nodejs-esbuild](https://github.com/floydspace/aws-lambda-nodejs-esbuild): AWS CDK Construct to bundle JavaScript and TypeScript lambdas using esbuild.
 - [esm.sh](https://github.com/postui/esm.sh): A fast, global content delivery network for ES Modules using esbuild.
 - [esbuild-config](https://github.com/bpierre/esbuild-config): Add config files to esbuild.
 - [Tauque](https://github.com/CTNicholas/tauque): Tauque is a zero-configuration JS/TS bundler using esbuild.
 - [esrun](https://github.com/digital-loukoum/esrun): esrun is a "work out of the box" library to execute Typescript without having to manually use a bundler.
-- [esbuild-bun-react-tempalte](https://github.com/Alex-Neo-Projects/esbuild-bun-react-template): A template for using esbuild with bun & react. Anecdotally faster than NextJS!
+- [esbuild-bun-react-template](https://github.com/Alex-Neo-Projects/esbuild-bun-react-template): A template for using esbuild with bun & react. Anecdotally faster than NextJS.
+- [quickbundle](https://github.com/adbayb/quickbundle): A zero-configuration bundler for JavaScript and TypeScript libraries producing optimized CommonJS and ESM NPM modules.
 
 ## Plugins
 
@@ -44,9 +45,9 @@
 - [esbuild-plugin-glslx](https://github.com/evanw/esbuild-plugin-glslx): A plugin that supports [`*.glslx` files](http://evanw.github.io/glslx/) including type checking of GLSL code.
 - [esbuild-plugin-less](https://github.com/iam-medvedev/esbuild-plugin-less): A plugin to transform LESS files to CSS files.
 - [esbuild-plugin-postcss](https://github.com/deanc/esbuild-plugin-postcss): A plugin to use postcss.
-- [esbuild-plugin-sass](https://github.com/koluch/esbuild-plugin-sass/): A plugin to transform SASS files to CSS files
+- [esbuild-plugin-sass](https://github.com/koluch/esbuild-plugin-sass/): A plugin to transform SASS files to CSS files.
 - [esbuild-plugin-svgr](https://github.com/kazijawad/esbuild-plugin-svgr): A plugin to import `*.svg` files as React components.
-- [esbuild-sass-plugin](https://github.com/glromeo/esbuild-sass-plugin/): Yet another SASS to CSS but with support for [lit-element's styles](https://lit-element.polymer-project.org/guide/styles)
+- [esbuild-sass-plugin](https://github.com/glromeo/esbuild-sass-plugin/): Yet another SASS to CSS but with support for [lit-element's styles](https://lit-element.polymer-project.org/guide/styles).
 - [esbuild-stylus-loader](https://github.com/ym-project/esbuild-stylus-loader): A plugin to transform stylus files to css files.
 - [esbuild-svelte](https://github.com/EMH333/esbuild-svelte): A plugin to load and compile Svelte components.
 - [essass](https://github.com/fayismahmood/sassEs/): A plugin to transform SASS files to CSS files.
